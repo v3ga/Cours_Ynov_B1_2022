@@ -9,7 +9,7 @@
 * apprendre à développer ses propres outils de création, création d'interface (UI) pour configurer et explorer les potentialités d'algorithmes de créations de formes graphiques.
 * insérer ses productions de formes dans un workflow plus général : print, site web, installations interactives.
 
-## Sketches en ligne
+### Sketches en ligne
 
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
