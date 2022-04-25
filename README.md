@@ -2,6 +2,9 @@
 # Cours Processing B1 Ynov Bordeaux + Aix
 *de avril à juin 2022*
 
+## Thème
+Au croisement du design graphique et de la programmation, ces cours proposeront d’utiliser l'environnement [Processing](https://processingfoundation.org/) / [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif.
+
 ## Objectifs pédagogiques
 * découverte de l'histoire de l'art génératif et plus largement du design génératif, évolutions des années 60 à nous jours.
 * découverte de la programmation interactive temps réel, productions de visuels animés réagissant à des stimuli : mouvement(s), voix, ... 
@@ -10,6 +13,7 @@
 * insérer ses productions de formes dans un workflow plus général : print, site web, installations interactives.
 
 #### Sketches en ligne
+✍️ https://editor.p5js.org/v3ga/collections/BvWPJW2J4
 
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
