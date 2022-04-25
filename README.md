@@ -9,7 +9,7 @@
 * apprendre à développer ses propres outils de création, création d'interface (UI) pour configurer et explorer les potentialités d'algorithmes de créations de formes graphiques.
 * insérer ses productions de formes dans un workflow plus général : print, site web, installations interactives.
 
-### Sketches en ligne
+#### Sketches en ligne
 
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
@@ -33,7 +33,7 @@
 * [Ben Fry](https://www.benfry.com/) and [Casey Reas](http://reas.com/)
 * [Rune Madsen / Computational color](http://printingcode.runemadsen.com/lecture-color/)
 
-### Exercice
+#### Exercice
 Choisir une des œuvres [« Homages to the square »](https://albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/) de Josef Albers pour le récréer avec du code.
 
 
