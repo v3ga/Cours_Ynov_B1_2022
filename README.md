@@ -86,6 +86,6 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 ### Références
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
-
+* [Generative Gestatung Walker](http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_2_1_02) 
 
 
