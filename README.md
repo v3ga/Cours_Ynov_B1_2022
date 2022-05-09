@@ -59,7 +59,7 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 ### Introduction
 * retour sur les notions vus au cours 01 avec le dessin d'un visage de Bruno Munari. Nous introduirons à ec sujet la notion de **variable** que nous reverrons dans le cours 03. 
 
-<img src="Design_as_art_cover.jpg" height="300" /><img src="Design_as_art_faces.jpg" height="300"/>
+<img src="Design_as_art_cover.jpg" height="400" /><img src="Design_as_art_faces.jpg" height="400"/>
 
 ### Animer
 * Animer : 
