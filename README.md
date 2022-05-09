@@ -59,6 +59,7 @@ Choisir une des œuvres [« Homages to the square »](https://albersfoundation
 ### Introduction
 * retour sur les notions vus au cours 01 avec le dessin d'un visage de Bruno Munari.
 
+<img src="Design_as_art_cover.jpg" />
 
 ### Animer
 * Animer : 
