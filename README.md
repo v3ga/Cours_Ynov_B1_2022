@@ -71,9 +71,9 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
   * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
 
-<a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_01.png" width="350" /></a><a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_02.png" width="350" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_01.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_02.png" width="250" /></a>
 
-<a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_01.png" width="350" /></a><a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_02.png" width="350" /></a><a href="https://editor.p5js.org/v3ga/sketches/1_XWLme7g"><img src="Ynov_2022_cours02_random _cercles_couleur_01.png" width="350" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_01.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_02.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/1_XWLme7g"><img src="Ynov_2022_cours02_random _cercles_couleur_01.png" width="250" /></a>
 
 
 #### Exercice 
