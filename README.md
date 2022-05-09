@@ -14,8 +14,19 @@ Au croisement du design graphique et de la programmation, ces cours proposeront 
 * apprendre à développer ses propres outils de création, création d'interface (UI) pour configurer et explorer les potentialités d'algorithmes de créations de formes graphiques.
 * insérer ses productions de formes dans un workflow plus général : print, site web, installations interactives.
 
+### Barême pour les exercices
+Pour les exercices que je vous donne, le barême est le suivant (sur 10)
+* **rendu en temps et en heure** :point_right: 1 point.
+* **respect de la consigne** :point_right: 3 points. 
+Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doit être insérée dans la colonne correspondante dans le document [Google Sheet en ligne](https://docs.google.com/spreadsheets/d/1d4Jbf_otrK26GBLUw8B1tlpJUbZqkj_je8B4ND-srDU/edit#gid=0). 
+* **créativité** :point_right: 6 points. 
+J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
+
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/BvWPJW2J4
+
+### Liste des étudiants + sketchbooks
+https://docs.google.com/spreadsheets/d/1d4Jbf_otrK26GBLUw8B1tlpJUbZqkj_je8B4ND-srDU/edit#gid=0
 
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
@@ -41,5 +52,30 @@ Au croisement du design graphique et de la programmation, ces cours proposeront 
 
 #### Exercice
 Choisir une des œuvres [« Homages to the square »](https://albersfoundation.org/art/josef-albers/paintings/homages-to-the-square/) de Josef Albers pour le récréer avec du code.
+
+## Cours 02
+*Bordeaux / lundi 9 mai 2022*
+
+### Introduction
+* retour sur les notions vus au cours 01 avec le dessin d'un visage de Bruno Munari.
+
+
+### Animer
+* Animer : 
+  * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
+  * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
+  * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
+
+#### Exercice 
+Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
+Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random).
+
+L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse du sketch est à placer dans la colonne correspondante sur le document en ligne : https://docs.google.com/spreadsheets/d/1d4Jbf_otrK26GBLUw8B1tlpJUbZqkj_je8B4ND-srDU/edit#gid=0
+
+
+### Références
+* Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
+* Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
+
 
 
