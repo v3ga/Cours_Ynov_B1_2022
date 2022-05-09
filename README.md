@@ -4,6 +4,13 @@
 
 <img src="axidraw.jpg" width="500px" />
 
+#### Sketches en ligne
+✍️ https://editor.p5js.org/v3ga/collections/BvWPJW2J4
+
+### Liste des étudiants + sketchbooks
+https://docs.google.com/spreadsheets/d/1d4Jbf_otrK26GBLUw8B1tlpJUbZqkj_je8B4ND-srDU/edit#gid=0
+
+
 ## Thème
 Au croisement du design graphique et de la programmation, ces cours proposeront d’utiliser l'environnement [Processing](https://processingfoundation.org/) / [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif.
 
@@ -22,11 +29,6 @@ Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doi
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
-#### Sketches en ligne
-✍️ https://editor.p5js.org/v3ga/collections/BvWPJW2J4
-
-### Liste des étudiants + sketchbooks
-https://docs.google.com/spreadsheets/d/1d4Jbf_otrK26GBLUw8B1tlpJUbZqkj_je8B4ND-srDU/edit#gid=0
 
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
