@@ -71,7 +71,7 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
   * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
   * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
 
-<img src="Ynov_2022_cours02_interaction_01.png" width="350" /><img src="Ynov_2022_cours02_interaction_02.png" width="350" />
+<a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_01.png" width="350" /></a><a href="https://editor.p5js.org/v3ga/sketches/-TrdeNAX9" target="_blank"><img src="Ynov_2022_cours02_interaction_02.png" width="350" /></a>
 
 #### Exercice 
 Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
