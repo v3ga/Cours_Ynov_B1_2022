@@ -91,7 +91,7 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 ## Cours 03
 *Bordeaux / lundi 16 mai 2022*
 
-1. Introduction à la notion de **variable** :
+### Introduction à la notion de **variable** :
 * variables prédéfinies vues dans les cours précédents : mouseX / mouseY, width / height, frameCount.
 * création / utilisation d'une variable dans un sketch simple. 
 * Variable pour la gestion d'un media : 
@@ -106,7 +106,7 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
   * créer la variable associée à l'image.
   * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload).    
 
-2. Structure de branchement IF
+### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
 * exemple avec affichage d’un objet en fonction de la position de la souris.
 * Modélisation d'un objet (bille), rebond sur les bords de l'écran.
 
