@@ -110,5 +110,8 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 * exemple avec affichage d’un objet en fonction de la position de la souris.
 * Modélisation d'un objet (bille), rebond sur les bords de l'écran.
 
+<a href="https://editor.p5js.org/v3ga/sketches/sC0KwQM5X" target="_blank"><img src="Ynov_2022_cours03_image_composition.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/LWz_PQLGO" target="_blank"><img src="Ynov_2022_cours03_modele_bille.png" width="250" /></a>
+
+
 
 
