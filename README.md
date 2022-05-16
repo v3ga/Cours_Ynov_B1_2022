@@ -76,7 +76,7 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
 <a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_01.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/joVm3IoAC"><img src="Ynov_2022_cours02_random_cercles_N&B_02.png" width="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/1_XWLme7g"><img src="Ynov_2022_cours02_random _cercles_couleur_01.png" width="250" /></a>
 
 
-#### Exercice 
+#### Exercice à rendre
 Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
 Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random). Le visage se dessinera sur un canvas de dimensions (500,500) pixels, les couleurs à utiliser sont le noir et le blanc uniquement. 
 
@@ -87,5 +87,28 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 * Dan Shiffman [EN] - [Using random()](https://www.youtube.com/watch?v=50Rzvxvi8D0)
 * Manuel Floss [FR] - [Dessiner / les évènements souris](https://fr.flossmanuals.net/processing/les-evenements-souris/)
 * [Generative Gestaltung Walker](http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_2_1_02) 
+
+## Cours 03
+*Bordeaux / lundi 16 mai 2022*
+
+1. Introduction à la notion de **variable** :
+* variables prédéfinies vues dans les cours précédents : mouseX / mouseY, width / height, frameCount.
+* création / utilisation d'une variable dans un sketch simple. 
+* Variable pour la gestion d'un media : 
+  * Chargement et affichage d'une image, gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
+  * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
+  * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
+
+#### Exercice à faire en cours
+* reprendre le sketch de dessin avec la souris ( https://editor.p5js.org/v3ga/sketches/-TrdeNAX9 )
+* remplacer le dessin du cercle par le dessin d'une image que vous aurez éditée avec un logiciel de dessin, dans l'idée de définir vous-même une brush de dessin. Plusieurs opérations à faire : 
+  * dupliquer [le sketch d'exemple](https://editor.p5js.org/v3ga/sketches/-TrdeNAX9) pour le sauver dans votre sketchbook.
+  * créer la variable associée à l'image.
+  * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload).    
+
+2. Structure de branchement IF
+* exemple avec affichage d’un objet en fonction de la position de la souris.
+* Modélisation d'un objet (bille), rebond sur les bords de l'écran.
+
 
 
