@@ -91,7 +91,7 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 ## Cours 03
 *Bordeaux / lundi 16 mai 2022*
 
-### Introduction à la notion de **variable** :
+### Introduction à la notion de [variable](https://p5js.org/reference/#/p5/let)
 * variables prédéfinies vues dans les cours précédents : mouseX / mouseY, width / height, frameCount.
 * création / utilisation d'une variable dans un sketch simple. 
 * Variable pour la gestion d'un media : 
