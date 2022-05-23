@@ -119,7 +119,7 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 * répétition d’un élément graphique de façon « naïve ».
 * utilisation d'une boucle pour réaliser le même sketch. 
 * création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
-* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : 
+* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : Quatre éléments ditribués au hasard (1959)
 
 #### Liens
 * [fonction sinus](https://editor.p5js.org/domestika_julien/sketches/kph_sR4VO)
