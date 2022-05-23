@@ -127,7 +127,7 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 * [fonction sinus](https://editor.p5js.org/domestika_julien/sketches/kph_sR4VO)
 
 #### Exercice à commencer en cours 
-En vous basant sur l’exemple de ce cours, vous programmerez quatre motifs différents. Prenez le temps de faire des croquis sur une feuille pour bien appréhender les formes et préparer le code. Les symétries fonctionnent toujours bien. Vous pouvez vous inspirer d’exemples déjà existants en faisant des recherches sur internet. Vous pouvez partir de ce template pour démarrer : https://editor.p5js.org/domestika_julien/sketches/7jQDg3Xxu
+En vous basant sur l’exemple de ce cours, vous programmerez quatre motifs différents. Prenez le temps de faire des croquis sur une feuille pour bien appréhender les formes et préparer le code. Les symétries fonctionnent toujours bien. Vous pouvez vous inspirer d’exemples déjà existants en faisant des recherches sur internet. Vous pouvez partir de ce template pour démarrer : https://editor.p5js.org/v3ga/sketches/gtYGOK4vp
 
 
 
