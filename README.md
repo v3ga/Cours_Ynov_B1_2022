@@ -112,6 +112,20 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 
 <a href="https://editor.p5js.org/v3ga/sketches/sC0KwQM5X" target="_blank"><img src="Ynov_2022_cours03_image_composition.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/LWz_PQLGO" target="_blank"><img src="Ynov_2022_cours03_modele_bille.png" height="250" /></a>
 
+## Cours 04
+*Bordeaux / lundi 23 mai 2022*
+
+### Introduction à la notion de [boucle](https://p5js.org/reference/#/p5/for)
+* répétition d’un élément graphique de façon « naïve ».
+* utilisation d'une boucle pour réaliser le même sketch. 
+* création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
+* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : 
+
+#### Liens
+* [fonction sinus](https://editor.p5js.org/domestika_julien/sketches/kph_sR4VO)
+
+#### Exercice à commencer en cours 
+En vous basant sur l’exemple de ce cours, vous programmerez quatre motifs différents. Prenez le temps de faire des croquis sur une feuille pour bien appréhender les formes et préparer le code. Les symétries fonctionnent toujours bien. Vous pouvez vous inspirer d’exemples déjà existants en faisant des recherches sur internet. Vous pouvez partir de ce template pour démarrer : https://editor.p5js.org/domestika_julien/sketches/7jQDg3Xxu
 
 
 
