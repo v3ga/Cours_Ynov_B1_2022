@@ -121,8 +121,8 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 * création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
 * Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : Quatre éléments ditribués au hasard (1959)
 
-<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" /></a>
-
+<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" height="250"/></a>
+<a href="https://editor.p5js.org/v3ga/sketches/xbACx_Vtp" target="_blank"><img src="Ynov_2022_cours04_truchet_01.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/jpph0HmW6" target="_blank"><img src="Ynov_2022_cours04_truchet_02.png" height="250" /></a>
 #### Liens
 * [fonction sinus](https://editor.p5js.org/domestika_julien/sketches/kph_sR4VO)
 
