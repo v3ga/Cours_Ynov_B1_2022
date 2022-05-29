@@ -29,7 +29,6 @@ Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doi
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
-
 ## Cours 01
 *Bordeaux / lundi 25 avril 2022*
 
@@ -126,11 +125,25 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 #### Liens
 * [fonction sinus](https://editor.p5js.org/domestika_julien/sketches/kph_sR4VO)
 
-#### Exercice à commencer en cours 
-En vous basant sur l’exemple de ce cours, vous programmerez quatre motifs différents. Prenez le temps de faire des croquis sur une feuille pour bien appréhender les formes et préparer le code. Les symétries fonctionnent toujours bien. Vous pouvez vous inspirer d’exemples déjà existants en faisant des recherches sur internet. Vous pouvez partir de ce template pour démarrer : https://editor.p5js.org/v3ga/sketches/gtYGOK4vp
-
 ## Cours 05
 *Bordeaux / lundi 30 mai 2022*
+
+Aujourd'hui nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
+Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI) pour explorer plus facilement les potentialités de notre algorithme. 
+
+#### Projet pour la fin de l'année
+Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) des cartes de visite, sur deux faces.
+Le visuel principal sera produit avec un sketch p5.js, les informations (à définir ensemble) seront produites plus traditionnellement avec une application de dessin vectoriel. 
+Étant donné que vous être nombreux, il sera difficile (je pense) d'en faire plus d'une ou deux par étudiant. 
+Nous partirons sur trois principes graphiques principaux : 
+* le principe de compositions de motifs sur une grille vues au cours 04.
+* le principe de formes composées vu aujourd'hui.
+* et un principe libre si vous le souhaitez.
+La contrainte principale sera de travailler en noir et blanc et avec des lignes seuleument (pas de remplissage de formes). Une autre contrainte sera de pouvoir exporter au format vectoriel SVG, ce que ne permet pas par défaut p5.js (export au format image seuleument) Pour ce faire, j'ai préparé des sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel.
+
+
+ 
+
 
 
 
