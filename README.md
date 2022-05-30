@@ -133,13 +133,22 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 
 #### Projet pour la fin de l'année
 Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) des cartes de visite, sur deux faces.
-Le visuel principal sera produit avec un sketch p5.js, les informations (à définir ensemble) seront produites plus traditionnellement avec une application de dessin vectoriel. 
+Le visuel principal sera produit avec un sketch p5.js, les informations (à définir ensemble) seront produites plus traditionnellement avec une application de dessin vectoriel. La fonte utilisée sera la [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
+
 Étant donné que vous être nombreux, il sera difficile (je pense) d'en faire plus d'une ou deux par étudiant. 
 Nous partirons sur trois principes graphiques principaux : 
-* le principe de compositions de motifs sur une grille vues au cours 04.
-* le principe de formes composées vu aujourd'hui.
+* le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/l6_kAP89K
+* le principe de formes composées vu aujourd'hui : https://editor.p5js.org/v3ga/sketches/lERPj5Oot
 * et un principe libre si vous le souhaitez.
-La contrainte principale sera de travailler en noir et blanc et avec des lignes seuleument (pas de remplissage de formes). Une autre contrainte sera de pouvoir exporter au format vectoriel SVG, ce que ne permet pas par défaut p5.js (export au format image seuleument) Pour ce faire, j'ai préparé des sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel.
+
+La contrainte principale sera de travailler en noir et blanc et avec des lignes seuleument, ce qui impliquera avoir les options de dessin suivante : 
+```javascript
+noFill();
+stroke(0);
+```
+
+Une autre contrainte sera de pouvoir exporter au format vectoriel SVG, ce que ne permet pas par défaut p5.js (export au format image seulement)
+Pour ce faire, je vais préparer pour le prochain cours des sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel.
 
 
  
