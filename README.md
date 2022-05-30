@@ -129,7 +129,11 @@ L'exercice sera à rendre pour le **dimanche 22 mai** au plus tard, l'addresse d
 *Bordeaux / lundi 30 mai 2022*
 
 Aujourd'hui nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
-Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI) pour explorer plus facilement les potentialités de notre algorithme. 
+Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI) pour explorer plus facilement les potentialités de notre algorithme.
+
+<a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_01.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_02.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_03.png" height="250" /></a>
+
+
 
 #### Projet pour la fin de l'année
 Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) des cartes de visite, sur deux faces.
