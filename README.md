@@ -133,7 +133,8 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 
 <a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_01.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_02.png" height="250" /></a><a href="https://editor.p5js.org/v3ga/sketches/lERPj5Oot" target="_blank"><img src="Ynov_2022_cours05_formes_composees_03.png" height="250" /></a>
 
-
+#### Références
+* [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 
 #### Projet pour la fin de l'année
 Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) des cartes de visite, sur deux faces.
