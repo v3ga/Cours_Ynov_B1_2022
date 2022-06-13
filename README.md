@@ -154,8 +154,9 @@ Le visuel principal sera produit avec un sketch p5.js, les informations (à déf
 Nous allons travailler sur des feuilles A4. La taille d'une carte de visite sera de 7.425 x 5.2 cm, ce qui permet d'en imprimer 16 (4x4) par feuille. Nous utilserons du papier PaintON Clairefontaine A4 (250 g/m2) avec des stylos Unipin fineline 0.1 mm.
 
 ##### Sketches
-Nous partirons sur deux sketches principaux afin de faciliter mon accompagnement sur vos créations.   
+Nous partirons sur ces sketches afin de faciliter mon accompagnement sur vos créations.   
 * le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/eIDni5_dZ ou https://editor.p5js.org/v3ga/sketches/K5etYpzWn
+* le principe de formes composées : https://editor.p5js.org/v3ga/sketches/kboCN9LXE
 * et un principe libre si vous le souhaitez, en partant de ce sketch : https://editor.p5js.org/v3ga/sketches/1vZIpbKp2
 
 ##### Contraintes de dessin
