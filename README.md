@@ -149,19 +149,23 @@ Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) de
 Le visuel principal sera produit avec un sketch p5.js, les informations (à définir ensemble) seront produites plus traditionnellement avec une application de dessin vectoriel. La fonte utilisée sera la [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
 
 Étant donné que vous être nombreux, il sera difficile (je pense) d'en faire plus d'une ou deux par étudiant. 
-Nous partirons sur trois principes graphiques principaux : 
-* le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/l6_kAP89K
-* le principe de formes composées vu aujourd'hui : https://editor.p5js.org/v3ga/sketches/lERPj5Oot
-* et un principe libre si vous le souhaitez.
 
+##### Format des cartes
+Nous allons travailler sur des feuilles A4. La taille d'une carte de visite sera de 7.425 x 5.2 cm, ce qui permet d'en imprimer 16 (4x4) par feuille. Nous utilserons du papier PaintON Clairefontaine A4 (250 g/m2) avec des stylos Unipin fineline 0.1 mm.
+
+##### Sketches
+Nous partirons sur deux sketches principaux afin de faciliter mon accompagnement sur vos créations.   
+* le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/eIDni5_dZ
+* et un principe libre si vous le souhaitez, en partant de ce sketch : https://editor.p5js.org/v3ga/sketches/1vZIpbKp2
+
+##### Contraintes de dessin
 La contrainte principale sera de travailler en noir et blanc et avec des lignes seuleument, ce qui impliquera avoir les options de dessin suivante : 
 ```javascript
 noFill();
 stroke(0);
 ```
-
-Une autre contrainte sera de pouvoir exporter au format vectoriel SVG, ce que ne permet pas par défaut p5.js (export au format image seulement)
-Pour ce faire, je vais préparer pour le prochain cours des sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel.
+Une autre contrainte sera de pouvoir exporter au [format vectoriel SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics), ce que ne permet pas par défaut p5.js (export au format image seulement)
+Pour ce faire, j'ai adapté les sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel. Cela implique d'avoir une écriture un petit peu spéciale sur les fonctions de dessin, qui sont préfixées avec *R.*. 
  
 <img src="v3ga_cards.jpg" width="500" />
 
