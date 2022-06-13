@@ -155,7 +155,7 @@ Nous allons travailler sur des feuilles A4. La taille d'une carte de visite sera
 
 ##### Sketches
 Nous partirons sur deux sketches principaux afin de faciliter mon accompagnement sur vos créations.   
-* le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/eIDni5_dZ
+* le principe de compositions de motifs sur une grille vues au cours 04 : https://editor.p5js.org/v3ga/sketches/eIDni5_dZ ou https://editor.p5js.org/v3ga/sketches/K5etYpzWn
 * et un principe libre si vous le souhaitez, en partant de ce sketch : https://editor.p5js.org/v3ga/sketches/1vZIpbKp2
 
 ##### Contraintes de dessin
