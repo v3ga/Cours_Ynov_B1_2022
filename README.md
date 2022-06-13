@@ -165,7 +165,17 @@ noFill();
 stroke(0);
 ```
 Une autre contrainte sera de pouvoir exporter au [format vectoriel SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics), ce que ne permet pas par défaut p5.js (export au format image seulement)
-Pour ce faire, j'ai adapté les sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel. Cela implique d'avoir une écriture un petit peu spéciale sur les fonctions de dessin, qui sont préfixées avec *R.*. 
+Pour ce faire, j'ai adapté les sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel. Cela implique d'avoir une écriture un petit peu spéciale sur les fonctions de dessin, qui sont préfixées avec *R.*.
+Nous pourrons utiliser uniquement les fonctions suivantes : 
+```
+R.line(x1,y1,x2,y2)
+R.rect(x,y,w,h)
+R.ellipse(x,y,w,h)
+R.arc(x, y, w, h, start, stop)
+R.beginShape()
+R.vertex(x,y)
+R.endShape()
+```
  
 <img src="v3ga_cards.jpg" width="500" />
 
