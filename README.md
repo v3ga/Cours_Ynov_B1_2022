@@ -136,6 +136,14 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 #### Références
 * [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 
+
+## Cours 06
+## Cours 07 - 08
+*Bordeaux / lundi 13 juin et jeudi 16 juin 2022*
+
+Ces derniers cours se feront sur un mode atelier de création pour se consacrer au projet de cartes de visite génératives. Je vous présenterai dans un premier temps le fonctionnement du traceur [axidraw](https://www.axidraw.com/) avec ses outils, [Inkscape](https://inkscape.org/fr/) et [Saxi](https://github.com/nornagon/saxi).
+
+
 #### Projet pour la fin de l'année
 Le projet sera d'imprimer avec un traceur [axidraw](https://www.axidraw.com/) des cartes de visite, sur deux faces.
 Le visuel principal sera produit avec un sketch p5.js, les informations (à définir ensemble) seront produites plus traditionnellement avec une application de dessin vectoriel. La fonte utilisée sera la [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
@@ -154,10 +162,8 @@ stroke(0);
 
 Une autre contrainte sera de pouvoir exporter au format vectoriel SVG, ce que ne permet pas par défaut p5.js (export au format image seulement)
 Pour ce faire, je vais préparer pour le prochain cours des sketches qui reprennent ce que nous avons vu mais avec la possibilité de sauvegarder au format vectoriel.
-
-
  
-
+<img src="v3ga_cards.jpg" width="500" />
 
 
 
