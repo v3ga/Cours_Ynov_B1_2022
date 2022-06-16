@@ -179,6 +179,7 @@ R.endShape()
 ```
  
 <img src="Ynov_B1_2022_cartes_visites_plot.jpg" width="700" />
+<img src="220616_plance_Ynov_B1_2022_cartes_visites_close_up.jpg" width="700" />
 
 
 
