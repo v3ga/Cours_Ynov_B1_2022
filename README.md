@@ -1,5 +1,5 @@
 
-# Cours Processing B1 Ynov Bordeaux + Aix
+# Cours Processing B1 Ynov Bordeaux
 *de avril à juin 2022*
 
 <img src="axidraw.jpg" width="500px" />
